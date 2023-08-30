@@ -1,0 +1,8 @@
+/* task-management-frontend/src/app/header/header.component.css */
+
+header {
+  background-color: #3498db;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
